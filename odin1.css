@@ -1,0 +1,178 @@
+body
+{
+    font-family: arial;
+    margin: 0;
+}
+div.top
+{
+    background-color: #1f2937;
+    padding: 0.5%;
+   
+     
+}
+li.logo {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+    margin-right: auto;
+}
+
+li.h
+{ 
+    font-size: 18px;
+    margin-right:1cm;
+    
+
+}
+
+ul.nav
+{
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: flex-end;
+    gap: 3px;
+    list-style: none;
+ 
+
+}
+.awesome
+{
+    
+    color: #f9faf8;
+    font-size: 18px;
+    margin-left: 1cm;
+} 
+.span
+{
+    font-size: 48px;
+    font-weight:bolder;
+}
+
+
+.btn1
+{
+    background-color: #50b2eb;
+    /* border: #50b2eb; */
+    border-radius: 5px;
+    color: white;
+    font-size: small;
+    padding: 5;
+    margin-left: 2cm;
+}
+
+.top-box
+{
+    display: flex;
+    gap: 20%;
+   
+}
+.image-box
+{
+    background-color: gray;
+    text-align: center;
+    /* padding: 4% 0 0 0; */                        
+    height: 150px;
+    width: 400px;
+    
+}
+.image-text
+{
+    color: white;
+    
+}
+.four
+{
+    font-size: 36px;
+    color:#1f2937;
+    text-align: center;   
+}
+.flex-middle
+{
+    height: 140px;
+    padding: 16px;
+    border: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.d
+{
+    height: 100px;
+    width: 100px;
+    border: 3px solid skyblue;
+    border-radius: 10px;
+}
+
+.second-middle
+{
+    background-color: #e5e7eb;
+}
+p.five
+{
+    font-size:36px;
+    color: #1f2937;
+    text-align: center;
+}
+span.middle-span
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50%;
+}
+
+.bottom
+{
+    /* height: 150%;
+    width: 100%; */
+    background-color: rgb(41, 111, 202);
+    margin-left: 25%;
+    margin-right: 20%;
+   border-radius:5px;
+   display: flex;
+   gap: 150px;
+padding: 2px% 0 0 0;
+}
+.six
+{
+    color: white;
+    margin-left: 10%;
+    font-size:x-small;
+}
+.bottom-span
+{
+    font-size: medium;
+    font-weight: bold;
+}
+.bottom-text
+{
+
+}
+.btn2
+{
+    background-color: rgb(41, 111, 202);
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+    
+}
+.bottom-btn
+{
+    padding:5% 0 5% 0;
+    
+}
+
+.footer 
+{
+   
+    background-color: #1f2937;
+    padding-bottom: 0.5%;
+    text-align: center;
+    color: white;
+
+}
+/* *
+{
+    border: 2px solid red;
+} */
